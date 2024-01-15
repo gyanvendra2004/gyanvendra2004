@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyanvendra Singh</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="">
+<img width="200px" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanvendra2004&label=Profile%20views&color=0e75b6&style=flat" alt="gyanvendra2004" /> </p>
 
