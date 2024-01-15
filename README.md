@@ -1,4 +1,4 @@
-![logo](https://github.com/gyanvendra2004/gyanvendra2004/blob/main/githubbanner.jpg)
+![logo](https://github.com/gyanvendra2004/gyanvendra2004/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Gyanvendra Singh</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 <!-- <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"> -->
