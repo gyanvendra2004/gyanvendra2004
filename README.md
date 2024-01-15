@@ -1,8 +1,8 @@
-<p align=”center”>
+
 
 <img width=”200" height=”200" src=”https://github.com/gyanvendra2004/gyanvendra2004/blob/main/gitub%20banner.jpg" alt=”my banner”>
 
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Gyanvendra Singh</h1>
